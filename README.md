@@ -16,3 +16,9 @@ python manage.py createsuperuser
 python manage.py runserver
 python manage.py makemigrations
 ```
+
+Creating the applications
+```
+django-admin startapp app_names
+```
+ 
